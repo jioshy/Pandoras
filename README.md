@@ -1,2 +1,3 @@
 # Pandoras
-work in progress
+work in progress 
+follow instructions and stay commited 
