@@ -1,3 +1,4 @@
 # Pandoras
-work in progress 
-follow instructions and stay commited 
++ # about me
++ . 
++ My name is JOrge 
